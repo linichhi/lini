@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wish Sent</title>
+    <style>
+        body {font-family: Arial, sans-serif;
+            background-color: #FFC0CB; /* Soft pink background */
+            text-align: center;
+            padding: 20p}
+        h1 {color: #FF69B4; /* Deep pink text color */}
+    </style>
+</head>
+<body>
+    <h1>Wish Sent! 💖</h1>
+    <p>Your wish has been sent:</p>
+    <p>{{ From the moment I met you, I knew there was something special about you. Your laughter is contagious, and your kindness knows no bounds. Whenever I'm with you, my heart feels lighter, and the world seems brighter. Your smile lights up the room, and your presence brings me comfort and joy. I find myself daydreaming about our future adventures together, and every moment spent by your side feels like a dream come true. You're not just someone I admire from afar; you're someone I deeply care about, and I'm grateful for the chance to know you. You're not just my crush; you're the reason for my happiness and the source of endless smiles.}}</p>
+</body>
+</html>
